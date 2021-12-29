@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "470580326698",
+    "project_id": "vagtlogger",
+    "storage_bucket": "vagtlogger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470580326698:android:1fd1222fb31264906e2e53",
+        "android_client_info": {
+          "package_name": "com.example.flutter_login_register_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470580326698-8df46orl1gc03o0o1lrvb495369h7a4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnejTfzxndKFZb8FUgId4sHtQdcYWQxMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470580326698-8df46orl1gc03o0o1lrvb495369h7a4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
